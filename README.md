@@ -4,9 +4,9 @@
 Меня зовут Алексей Яковлев и я занимаюсь web-разработкой. Позиционирую себя как Front-end разработчик, но могу писать и Back-end. На клиенте использую: Javascript, Typescript, React, Next.js, Redux. На сервере: Express.js, Node.js, MongoDB, PostgreSQL.
 
 ## Skills and Experience
-* ⚛ React/Next.js
+* ⚛ React/Redux/Next.js
 * 💻 Javascript/Typescript
-* 📦 Webpack/Redux
+* 📦 Webpack
 * 🗃 NodeJS
 * 📑 MongoDB/PostgreSQL
 
