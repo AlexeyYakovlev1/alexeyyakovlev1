@@ -10,12 +10,12 @@ My name is Alexey, I'm from Russia, I'm 17 years old and I do web development. I
 </div>
 
 <p display="flex">
-<div width="300">
+<span>
 - 🌱 I’m currently learning Typescript, Nextjs, PostgreSQL 
 - 👯 I’m looking to collaborate on other developers 
 - 💬 Ask me about Javascript, React 
 - 📫 How to reach me: alexeyykovlev555@gmail.com
-</div>
+</span>
 <img src="https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" height="200" />
 </p>
 
