@@ -10,7 +10,7 @@ My name is Alexey, I'm from Russia, I'm 17 years old and I do web development. I
 </div>
 
 <div style="display:flex; align-items: center;">
-<div>
+<div style="display:flex; flex-direction:column;">
 - 🌱 I’m currently learning Typescript, Nextjs, PostgreSQL 
 - 👯 I’m looking to collaborate on other developers 
 - 💬 Ask me about Javascript, React 
