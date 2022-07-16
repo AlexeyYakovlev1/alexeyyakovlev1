@@ -5,6 +5,7 @@
 My name is Alexey, I'm from Russia, I'm 17 years old and I do web development. I enjoy writing Javascript code and developing it. I also study current frameworks and libraries, such as React, Nextjs, Nodejs, Redux ... I make full-fledged web applications that run a client and a server. In most cases, I write clones of various sites that use their functionality (the idea of ​​my own web applications has not been invented yet)). 
 
 <br/>
+<br/>
 
 - 🌱 I’m currently learning Typescript, Nextjs, PostgreSQL 
 - 👯 I’m looking to collaborate on other developers 
