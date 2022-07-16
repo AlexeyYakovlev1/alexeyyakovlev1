@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="846" height="320" />
+<img src="https://media2.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif?cid=ecf05e47jgj2hxa4me7tbf79dj04uqn9z0i0nkl8yfdvivpc&rid=giphy.gif&ct=g" width="846" height="250" />
 </p>
 <h1 align="center">Hi there 👋, I'm Alexey Yakovlev</h1>
 My name is Alexey, I'm from Russia, I'm 17 years old and I do web development. I enjoy writing Javascript code and developing it. I also study current frameworks and libraries, such as React, Nextjs, Nodejs, Redux ... I make full-fledged web applications that run a client and a server. In most cases, I write clones of various sites that use their functionality (the idea of ​​my own web applications has not been invented yet)). 
@@ -13,7 +13,7 @@ My name is Alexey, I'm from Russia, I'm 17 years old and I do web development. I
 - 👯 I’m looking to collaborate on other developers 
 - 💬 Ask me about Javascript, React 
 - 📫 How to reach me: alexeyykovlev555@gmail.com
-
+<img src="https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" height="200" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexeyYakovlev1&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
