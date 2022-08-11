@@ -19,4 +19,4 @@ My name is Alexey, I'm from Russia, I'm 17 years old and I do web development. I
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexeyYakovlev1&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyYakovlev1&hide=html,css,sass,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyYakovlev1&hide=html,css,sass,shell,pug)](https://github.com/anuraghazra/github-readme-stats)
