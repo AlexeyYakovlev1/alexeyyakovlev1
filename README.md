@@ -7,9 +7,9 @@ My name is Alexey, I'm from Russia, I'm 18 years old and I do web development. I
 <br/>
 <br/>
 
-- 🌱 I’m currently learning Typescript, Nextjs, PostgreSQL 
+- 🌱 I’m currently learning PHP, Laravel
 - 👯 I’m looking to collaborate on other developers 
-- 💬 Ask me about Javascript, React 
+- 💬 Ask me about Javascript
 - 📫 How to reach me: alexeyykovlev555@gmail.com
 
 <div display="flex">
