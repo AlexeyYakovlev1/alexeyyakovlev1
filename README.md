@@ -2,12 +2,12 @@
 <img src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47i30qtghko5rid8xf2rawve079x1ja5norpgxqy1n&rid=giphy.gif&ct=g" width="846" height="300" />
 </p>
 <h1 align="center">Hi there 👋, I'm Alexey Yakovlev</h1>
-My name is Alexey, I'm from Russia, I'm 19 years old and I do web development. I enjoy writing Javascript, Python and PHP code and developing it. I also study current frameworks and libraries, such as Laravel, Vue... I make full-fledged web applications that run a client and a server. In most cases, I write clones of various sites that use their functionality (the idea of ​​my own web applications has not been invented yet)). 
+I'm from Russia, I'm 19 years old and I do backend development. I like to write code in Javascript, Python. I also study current technologies, such as Linux, Redis, Nodejs, Sql... I can also write Frontend in vanilla javascript or frameworks like React or Vue. I often use MVC as my backend architecture. You may not see much activity here because... all work is carried out in closed repositories, sorry about that.
 
 <br/>
 <br/>
 
-- 🌱 I’m currently learning PHP, Laravel
+- 🌱 I’m currently learning Python, Sql
 - 👯 I’m looking to collaborate on other developers 
 - 💬 Ask me about Javascript
 - 📫 How to reach me: alexeyykovlev555@gmail.com
