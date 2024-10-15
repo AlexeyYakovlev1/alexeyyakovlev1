@@ -2,7 +2,7 @@
 <img src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47i30qtghko5rid8xf2rawve079x1ja5norpgxqy1n&rid=giphy.gif&ct=g" width="846" height="300" />
 </p>
 <h1 align="center">Hi there 👋, I'm Alexey Yakovlev</h1>
-I'm from Russia, I'm 19 years old and I do backend development. I like to write code in Javascript, Python. I also study current technologies, such as Linux, Nginx, Nodejs, Sql... I can also write Frontend in vanilla javascript or frameworks like React or Vue. I often use MVC as my backend architecture. You may not see much activity here because... all work is carried out in closed repositories, sorry about that.
+I'm from Russia, I'm 20 years old and I do backend development. I like to write code in Javascript, Python. I also study current technologies, such as Linux, Nginx, Nodejs, Sql... I can also write Frontend in vanilla javascript or frameworks like React or Vue. I often use MVC as my backend architecture. You may not see much activity here because... all work is carried out in closed repositories, sorry about that.
 
 <br/>
 <br/>
