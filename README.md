@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>20 y.o.</strong> | <strong>Russia</strong> | <strong>Backend</strong> enthusiast (Node.js, TypeScript, PostgreSQL, TypeORM, MVC) | <strong>Frontend</strong> experience (Vanilla JS, React/Vue) | Linux lover 🐧 | Let's build something awesome: <a href="mailto:alexeyykovlev555@gmail.com">alexeyykovlev555@gmail.com</a> | Open to collabs! �
+  <strong>20 y.o.</strong> | <strong>Russia</strong> | <strong>Backend</strong> enthusiast (Node.js, TypeScript, PostgreSQL, TypeORM, MVC) | <strong>Frontend</strong> experience (Vanilla JS, React/Vue) | Linux lover 🐧 | Let's build something awesome: <a href="mailto:alexeyykovlev555@gmail.com">alexeyykovlev555@gmail.com</a> | Open to collabs!
 </p>
 
 ---
