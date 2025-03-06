@@ -1,9 +1,5 @@
 <p align="center">
-<img src="https://i.giphy.com/bMZfX4pCxo60o.webp" width="480" height="280" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hello,+World!" alt="Заголовок" />
+<img src="https://i.giphy.com/bMZfX4pCxo60o.webp" width="240" height="140" />
 </p>
 
 <p align="center">
