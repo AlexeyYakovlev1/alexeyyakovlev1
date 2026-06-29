@@ -1,4 +1,9 @@
 ```bash
+Description:
+Work in privacy projects.
+For contact: alexeyykovlev555@gmail.com
+
+Skills:
 Python/Typescript
 FastAPI/NestJS
 PostgreSQL/MongoDB
